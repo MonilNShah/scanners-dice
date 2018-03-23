@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Monil Shah\Desktop\Android Workshop\Scarnes-Dice-master\Scarnes-Dice-master\ScarneDice.iml" filepath="C:\Users\Monil Shah\Desktop\Android Workshop\Scarnes-Dice-master\Scarnes-Dice-master\ScarneDice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scarnes-Dice-master.iml" filepath="$PROJECT_DIR$/Scarnes-Dice-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Monil Shah\Desktop\Android Workshop\Scarnes-Dice-master\Scarnes-Dice-master\app\app.iml" filepath="C:\Users\Monil Shah\Desktop\Android Workshop\Scarnes-Dice-master\Scarnes-Dice-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
